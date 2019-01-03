@@ -1,6 +1,6 @@
 # hackerRankSolutions
 
-this repository for hackerRank solutionsss
+this repository for hackerRank solutions
 
 
 --
